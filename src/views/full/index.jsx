@@ -286,7 +286,7 @@ const duplicateFinder = ({ bp, languages, defaultLanguage, contentLang }) => {
 
   const changeLang = e => {
     e.preventDefault()
-    console.log(e.target.value)
+
     setLang(e.target.value)
     getQnaData()
   }
