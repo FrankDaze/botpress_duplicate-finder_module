@@ -2,6 +2,8 @@
 
 This module helps you to identify and delete duplicate Q&A entries in botpress.
 
+<img width="1781" alt="Bildschirmfoto 2022-04-29 um 08 29 21" src="https://user-images.githubusercontent.com/22960630/165899165-a18706fa-de0d-4338-8981-a837c56cf07b.png">
+
 ## Download the ready to use module
 
 1. Download the _duplicate-finder.tgz_ file
